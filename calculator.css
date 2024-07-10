@@ -5,10 +5,10 @@ body {
   text-align: center;
 }
 button {
-  background-color: rgb(51, 51, 51);
+  background-color: rgb(50, 50, 50);
   color: white;
-  height: 60px;
-  width: 60px;
+  height: 62px;
+  width: 62px;
   border: none;
   border-radius: 30px;
   font-size: 26px;
@@ -19,7 +19,7 @@ button {
   font-size: 17px;
 }
 .orange-button {
-  background-color: rgb(254, 160, 10);
+  background-color: rgb(223, 147, 26);
 }
 .result {
   color: white;
